@@ -1,4 +1,4 @@
-export const JSON_API = 'http://localhost:8001/courses'
+export const JSON_API = 'http://localhost:8000/courses'
 
 export enum CrudActionTypes {
     GET_COURSE = "ADD_COURSE",
